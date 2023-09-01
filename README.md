@@ -1,2 +1,2 @@
 # PengalamanBelajar
-Repository ini berisi pengalamanku belajar menggunakan GitHub dari Dicoding.
+Repository ini berisi Pengalaman Belajar menggunakan GitHub dari Dicoding.
