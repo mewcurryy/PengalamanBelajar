@@ -22,3 +22,6 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 **21 Juni 2021**    
 Belajar kelas Memulai Pemrograman dengan MySQL. (Progres 10%)
   * Belajar membuat database baru dan tabel baru.
+
+**7 Januari 2024**
+Chris suka makan nasi babi.
